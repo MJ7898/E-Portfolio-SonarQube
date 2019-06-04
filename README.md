@@ -20,6 +20,7 @@ Content:
 So after this steps you can handle your code quality and see what you can do better or what is almost good.
 
 # 1. Login to sonarcloud.io with github account
+Here you can find sonarcloud. https://sonarcloud.io/ 
 To use sonarcloud, you can use  your github account to link it with sonarcloud. 
 So link it.
 
