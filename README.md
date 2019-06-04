@@ -17,8 +17,14 @@ So after this steps you can handle your code quality and see what you can do bet
 
 # 1. Login to conarcloud.io with github account
 ![Login](Images/login.jpeg)
+
+# 2. fork the project
 ![Log-in](Images/Screenshot3.png)
+
+# 3. select the right repository
 ![Log-in](Images/Screenshot4.png)
+
+# 4 follow the instruction of sonarcloud
 ![Log-in](Images/Screenshot5.png)
 ![Log-in](Images/Screenshot6.png)
 ![Log-in](Images/Screenshot7.png)
