@@ -46,8 +46,8 @@ If you have checked the repository, click on the right Set Up button to continue
 
 # 4 follow the instruction of sonarcloud
 
+In the following picture you can see how to make the analyzation running. 
 ![Log-in](Images/Screenshot5.png)
-![Log-in](Images/Screenshot6.png)
 ![Log-in](Images/Screenshot7.png)
 ![Log-in](Images/Screenshot8.png)
 
