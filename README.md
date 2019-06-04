@@ -11,7 +11,7 @@ MAC: https://builder.blender.org/download/blender-2.80-e78770039397-OSX-10.9-x86
 Linux: https://builder.blender.org/download/blender-2.80-e78770039397-linux-glibc224-i686.tar.bz2
 
 Content:
-1. Log-in to sonarcloud.io with github-account
+- [1. Log-in to sonarcloud.io with github-account](#1 Log-in)
 2. If the Repo or Project is not yours, fork it in your account as repository
 3. On sonarcloud select the repository you will check with sonarqube
 4. Setup the join between IDE and sonarcloud (Follow the steps in sonarcloud)
