@@ -21,3 +21,5 @@ So after this steps you can handle your code quality and see what you can do bet
 ![Log-in](Images/Screenshot4.png)
 ![Log-in](Images/Screenshot5.png)
 ![Log-in](Images/Screenshot6.png)
+![Log-in](Images/Screenshot7.png)
+![Log-in](Images/Screenshot8.png)
