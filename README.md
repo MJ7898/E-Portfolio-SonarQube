@@ -20,9 +20,10 @@ To use sonarcloud, you can use github to link your accounts. So link it.
 ![Login](Images/login.jpeg)
 
 # 2. fork the project
-![Log-in](Images/Screenshot3.png)
+
 
 # 3. select the right repository
+![Log-in](Images/Screenshot3.png)
 ![Log-in](Images/Screenshot4.png)
 
 # 4 follow the instruction of sonarcloud
