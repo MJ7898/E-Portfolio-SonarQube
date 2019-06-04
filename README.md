@@ -15,7 +15,8 @@ Content:
 
 So after this steps you can handle your code quality and see what you can do better or what is almost good.
 
-# 1. Login to conarcloud.io with github account
+# 1. Login to sonarcloud.io with github account
+To use sonarcloud, you can use github to link your accounts. So link it.
 ![Login](Images/login.jpeg)
 
 # 2. fork the project
