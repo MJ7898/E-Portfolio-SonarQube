@@ -7,8 +7,8 @@ Follow the instruction
 It will run on all devices and all IDE´s.
 
 Content:
-- [1. Login to sonarcloud.io with github account](#1 Login-to-sonarcloud.io-with-github-account)
-- [2. If the Repo or Project is not yours, fork it in your account as repository](#2 )
+- [1. Login to sonarcloud.io with github account](#1)
+- [2. If the Repo or Project is not yours, fork it in your account as repository](#2)
 3. On sonarcloud select the repository you will check with sonarqube
 4. Setup the join between IDE and sonarcloud (Follow the steps in sonarcloud)
 5. See what your code is about
