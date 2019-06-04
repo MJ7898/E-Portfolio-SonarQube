@@ -47,9 +47,21 @@ If you have checked the repository, click on the right Set Up button to continue
 # 4 follow the instruction of sonarcloud
 
 In the following picture you can see how to make the analyzation running. 
+
 ![Log-in](Images/Screenshot5.png)
+
+Now you generate an Token to identify your repository of analyzation.
+
 ![Log-in](Images/Screenshot7.png)
+
+After that you have to guess which components your project have. (programming language, or build type)
+
 ![Log-in](Images/Screenshot8.png)
+Go to your IDE.
+Then you need to add the plugin line to your global gradle, if you use gradle. With maven just use the other option.
+
+After that, run the other lines on the terminal in your IDE, go back to the website of sonarcloud.
+That's it. 
 
 # 5. Finally
-You can see how your code quality is and can change some things you have to change.
+Nom you can see how your code quality is and can change some things you have to change.
