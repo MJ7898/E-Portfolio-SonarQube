@@ -64,4 +64,4 @@ After that, run the other lines on the terminal in your IDE, go back to the webs
 That's it. 
 
 # 5. Finally
-Nom you can see how your code quality is and can change some things you have to change.
+Now you can see how your code quality is, also you can see things you have to prepare.
