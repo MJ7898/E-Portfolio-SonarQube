@@ -16,6 +16,8 @@ Content:
 So after this steps you can handle your code quality and see what you can do better or what is almost good.
 
 # 1. Login to conarcloud.io with github account
-![Log-in](Images/WhatsApp-Image-2019-06-04-at-12.28.52-PM.jpeg)
-![Log-in](Images/WhatsApp-Image-2019-06-04-at-12.28.52-PM.jpeg)
-![Log-in](Screenshot%20(3).jpeg)
+![Log-in](Images/login.png)
+![Log-in](Images/Screenshot3.jpeg)
+![Log-in](Images/Screenshot4.jpeg)
+![Log-in](Images/Screenshot5.jpeg)
+![Log-in](Images/Screenshot6.jpeg)
