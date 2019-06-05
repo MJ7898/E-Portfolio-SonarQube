@@ -52,21 +52,31 @@ Also add to global build.gradle ->
 
 
 
-![Log-in](Images/Screenshot3.png)
+![Log-in](Images/Screenshot.png)
 
 
 ![Log-in](Images/Screenshot4.png)
 
 
-# 4 follow the instruction of sonarcloud
+# 4 follow the instruction of sonarqube
 
+When you start the StartSonar.bat the following command will occure.
 
-![Log-in](Images/Screenshot5.png)
+![Log-in](Images/Screenshot11.png)
 
+Then you go back to the http://localhost:9000 and sonarqube will laod the page.
 
-![Log-in](Images/Screenshot7.png)
+![Log-in](Images/Screenshot12.png)
 
+ When it is finished it shows the start page.
 
+![Log-in](Images/Screenshot13.png)
 
-![Log-in](Images/Screenshot8.png)
-
+ After that you must login to sonarqube to run the code analyze.
+ 
+ ![Log-in](Images/Screenshot15.png)
+ 
+ Then you must setup you repo from github in sonarqube in this page.
+ 
+ ![Log-in](Images/Screenshot16.png)
+ 
