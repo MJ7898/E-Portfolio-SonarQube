@@ -36,7 +36,20 @@ To work with the tutorial make sure you follow the steps below or [here](#https:
 
 If you want to see your quality of code fork the project from your Software engineering project to have full access.
 
-# 3. select the right repository
+# 3. prepare your IDE
+In our example we analyze the code with gradle, because the project runs with gradle.
+Read the steps on the [website](#https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle) or read below.
+
+Add the following code snippet in your gradle.properties ->
+
+"systemProp.sonar.host.url=http://localhost:9000
+#----- Token generated from an account with 'publish analysis' permission
+systemProp.sonar.login=<token>"
+Also add to global build.gradle -> 
+"plugins {
+  id "org.sonarqube" version "2.7.1"
+}"
+
 
 
 ![Log-in](Images/Screenshot3.png)
