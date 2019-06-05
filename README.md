@@ -26,7 +26,7 @@ To work with the tutorial make sure you follow the steps below or [here](#https:
 #### 1. Download the SonarQube Community Edition [here](#https://www.sonarqube.org/downloads/) 
 #### 2. Unzip it
 #### 3. Start the SonarQube Server
-![Login](Images/login.jpeg)
+![Login](Images/WindowsCommand.png)
 #### 4. Log in to http://localhost:9000 with System Administrator credentials (admin/admin)
 #### 5. Download MySQL / make sure to have it [MySQL-Downlaod](#https://dev.mysql.com/downloads/)
 #### 6. Make sure to use Java 11
