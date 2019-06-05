@@ -78,7 +78,7 @@ Then you go back to the http://localhost:9000 and sonarqube will laod the page.
  
  Then you must setup you repo from github in sonarqube in this page.
  
- # 5 See the result
+ # 5 See what your code is about
  
  To see how you code is, you must run gradle and teh Scanner ist started automatically.
  So there are the parallels between sonarcloud and sonarqube. In sonarcloud you see the code  
