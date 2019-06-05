@@ -13,8 +13,8 @@ Follow the instruction
 Content:
 - [1. Needed components](#1-login-to-sonarcloud-with-github-account)
 - [2. Fork the project](#2-fork-the-project)
-- [3. On sonarcloud select the repository you will check with sonarqube](#3-on-sonarcloud-select-the-repository-you-will-check-with-sonarqube)
-- [4. Setup the join between IDE and sonarcloud](#4-setup-the-join-between-IDE-and-sonarcloud)
+- [3. Prepare your IDE and Gradle](#3-on-sonarcloud-select-the-repository-you-will-check-with-sonarqube)
+- [4. Follow the instruction of sonarqube](#4-setup-the-join-between-IDE-and-sonarcloud)
 - [5. See what your code is about](#5-see-what-your-code-is-about)
 
 So after this steps you can handle your code quality and see what you can do better or what is almost good.
@@ -77,6 +77,12 @@ Then you go back to the http://localhost:9000 and sonarqube will laod the page.
  ![Log-in](Images/Screenshot15.png)
  
  Then you must setup you repo from github in sonarqube in this page.
+ 
+ # 5 See the result
+ 
+ To see how you code is, you must run gradle and teh Scanner ist started automatically.
+ So there are the parallels between sonarcloud and sonarqube. In sonarcloud you see the code  
+ analyzation on the website, in sonarqube you see the results on the localhost.
  
  ![Log-in](Images/Screenshot16.png)
  
