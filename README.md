@@ -80,9 +80,13 @@ Then you go back to the http://localhost:9000 and sonarqube will laod the page.
  
  # 5 See what your code is about
  
+ ![Log-in](Images/Screenshot16.png)
+ 
  To see how you code is, you must run gradle and teh Scanner ist started automatically.
  So there are the parallels between sonarcloud and sonarqube. In sonarcloud you see the code  
  analyzation on the website, in sonarqube you see the results on the localhost.
  
- ![Log-in](Images/Screenshot16.png)
+ ![Log-in](Images/Result.PNG)
+ 
+ 
  
