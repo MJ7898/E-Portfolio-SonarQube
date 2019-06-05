@@ -36,7 +36,7 @@ To work with the tutorial make sure you follow the steps below or [here](#https:
 
 If you want to see your quality of code fork the project from your Software engineering project to have full access.
 
-# 3. prepare your IDE
+# 3. prepare your IDE and Gradle
 In our example we analyze the code with gradle, because the project runs with gradle.
 Read the steps on the [website](#https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle) or read below.
 
