@@ -50,14 +50,6 @@ Also add to global build.gradle ->
   id "org.sonarqube" version "2.7.1"
 }"
 
-
-
-![Log-in](Images/Screenshot.png)
-
-
-![Log-in](Images/Screenshot4.png)
-
-
 # 4 follow the instruction of sonarqube
 
 When you start the StartSonar.bat the following command will occure.
