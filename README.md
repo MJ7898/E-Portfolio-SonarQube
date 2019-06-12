@@ -23,12 +23,12 @@ So after this steps you can handle your code quality and see what you can do bet
 
 To work with the tutorial make sure you follow the steps below or [here](#https://docs.sonarqube.org/latest/setup/get-started-2-minutes/).
 
-#### 1. Download the SonarQube Community Edition [here](#https://www.sonarqube.org/downloads/) 
+#### 1. Download the SonarQube Community Edition https://www.sonarqube.org/downloads/ 
 #### 2. Unzip it
 #### 3. Start the SonarQube Server
 ![Login](Images/WindowsCommand.PNG)
 #### 4. Log in to http://localhost:9000 with System Administrator credentials (admin/admin)
-#### 5. Download MySQL / make sure to have it [MySQL-Downlaod](#https://dev.mysql.com/downloads/)
+#### 5. Download MySQL / make sure to have it https://dev.mysql.com/downloads/
 #### 6. Make sure to use Java 11
 #### 7. Last one, make sure to have SonarQube Scanner and Server
 
@@ -38,7 +38,7 @@ If you want to see your quality of code fork the project from your Software engi
 
 # 3. prepare your IDE and Gradle
 In our example we analyze the code with gradle, because the project runs with gradle.
-Read the steps on the [website](#https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle) or read below.
+Read the steps on the https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner+for+Gradle or read below.
 
 Add the following code snippet in your gradle.properties ->
 
